@@ -3,5 +3,4 @@ jdk:
   - "1.8"
 os:
   - linux
-  - windows
   
